@@ -1,4 +1,4 @@
-package com.jmsul.tag.fopservice
+package com.jmsul.fopservice
 
 import org.junit.Test
 import org.junit.runner.RunWith

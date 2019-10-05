@@ -1,4 +1,4 @@
-package com.jmsul.tag.fopservice
+package com.jmsul.fopservice
 
 import org.springframework.boot.SpringApplication
 import org.springframework.boot.autoconfigure.SpringBootApplication
